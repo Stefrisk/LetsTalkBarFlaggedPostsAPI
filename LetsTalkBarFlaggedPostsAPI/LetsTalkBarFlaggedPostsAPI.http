@@ -1,0 +1,6 @@
+@LetsTalkBarFlaggedPostsAPI_HostAddress = http://localhost:5177
+
+GET {{LetsTalkBarFlaggedPostsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
